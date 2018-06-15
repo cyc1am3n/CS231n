@@ -5,7 +5,7 @@ Course website: http://cs231n.stanford.edu/
 
 Assignment List:
  * Assignment #1
- 	* Q1: k-Nearest Neighbor classifier  
+ 	* Q1: k-Nearest Neighbor classifier  [CLEAR!]
 
  	* Q2: Training a Support Vector Machine  
 
